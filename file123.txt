@@ -1,3 +1,0 @@
-Hi folks, this file is getting edited from master branch
-Hi folks we are editing form testbranch
-Modifying this file from central repo
